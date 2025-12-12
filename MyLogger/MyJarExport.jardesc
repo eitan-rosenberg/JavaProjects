@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="K:/JavaJARs/myLogger/MyLogger.jar"/>
+    <options buildIfNeeded="true" compress="false" descriptionLocation="/MyLogger/MyJarExport.jardesc" exportErrors="false" exportWarnings="false" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="/MyLogger/META-INF/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <folder path="/MyLogger/src"/>
+        <folder path="/MyLogger/target"/>
+        <file path="/MyLogger/.classpath"/>
+        <file path="/MyLogger/.project"/>
+        <file path="/MyLogger/pom.xml"/>
+        <javaElement handleIdentifier="=MyLogger/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=MyLogger/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+    </selectedElements>
+</jardesc>
