@@ -36,7 +36,7 @@ public class MyLoggingTests {
 //		test_05_myStandardInterface();
 //		test_06_deleteLogFiles();
 //		test_07_threadUncaughtException();
-		test_08_loggerText();
+//		test_08_loggerText();
 
 	}
 
@@ -142,6 +142,7 @@ public class MyLoggingTests {
 
 	}
 
+	@SuppressWarnings("unused")
 	private void test_08_loggerText() {
 
 //		MyLogger.addFileHandler(MyHandlerType.FileHandlerLocal);
